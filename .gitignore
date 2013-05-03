@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+
+resources/src/.DS_Store
+
+resources/wscript
